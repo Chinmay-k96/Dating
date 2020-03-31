@@ -1,0 +1,32 @@
+body {
+			background-color: #BDD4E7;
+			padding: 20px;
+			margin: auto;
+
+		}
+
+		.navbar, navbar-default {
+			background-color: #537895;
+background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+		}
+
+		h1{
+			color: #37D5D6;
+		}
+
+		p {
+			color: #36096D;
+		}
+
+		.diff {
+			color: #2A2A72;
+		}
+
+		.btn, btn-danger, btn-xs {
+			background-color: #36096D;
+			align-items: left;
+		}
+
+		.form-group {
+			max-width: 700px;
+		}
